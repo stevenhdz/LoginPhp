@@ -4,6 +4,14 @@ body{
     background: linear-gradient(to right, #11998e, #18ef7d);
 }
 
+header{
+    background: black;
+}
+
+footer{
+    background: black;
+}
+
 #login .container #login-row #login-column #login-box{
     margin-top: 70px;
     max-width: 600px;
